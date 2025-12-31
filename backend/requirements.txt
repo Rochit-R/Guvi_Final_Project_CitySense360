@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+numpy
+pandas
+scikit-learn
+matplotlib
+streamlit
+plotly
+nltk
+textblob
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+pypdf
